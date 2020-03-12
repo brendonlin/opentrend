@@ -1,0 +1,10 @@
+doc
+data
+.vscode
+env
+cache
+.*_cache
+*.pyc
+config.ini
+.ipynb*
+__pytcache__
